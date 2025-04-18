@@ -34,8 +34,18 @@ Demonstrar os conhecimentos fundamentais em **HTML5** através da construção d
 
 ---
 
+## 🔗 Veja o Projeto no Ar
+
+<p align="center">
+  <a href="https://vinirchaves.github.io/UNES---Universidade-HTML5-/" target="_blank">
+    <img src="https://img.shields.io/badge/👁️ Ver%20Projeto-Online-green?style=for-the-badge&logo=github" alt="Ver Projeto Online"/>
+  </a>
+</p>
+
+---
+
 ## 🧑‍💻 Autor
-Feito com 💻 por Vinícius Chaves
+Feito com 💻 por Vinícius Chaves  
 🚀 Projeto educacional desenvolvido com base nos aprendizados do curso de Jorge Sant Ana.
 
 ## 📜 Licença
