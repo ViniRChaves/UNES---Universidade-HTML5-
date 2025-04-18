@@ -42,6 +42,8 @@ Demonstrar os conhecimentos fundamentais em **HTML5** através da construção d
 ├── 📄 quem-somos.html
 └── 📄 contato.html
 
+---
+
 🧑‍💻 Autor
 Feito com 💻 por Vinícius Chaves
 🚀 Projeto educacional desenvolvido com base nos aprendizados do curso de Jorge Sant Ana.
