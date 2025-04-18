@@ -34,6 +34,15 @@ Demonstrar os conhecimentos fundamentais em **HTML5** através da construção d
 
 ---
 
+##🧑‍💻 Autor
+Feito com 💻 por Vinícius Chaves
+🚀 Projeto educacional desenvolvido com base nos aprendizados do curso de Jorge Sant Ana.
+
+##📜 Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
+
 ## 📂 Estrutura do Projeto
 
 ```bash
@@ -41,12 +50,3 @@ Demonstrar os conhecimentos fundamentais em **HTML5** através da construção d
 ├── 📄 index.html
 ├── 📄 quem-somos.html
 └── 📄 contato.html
-
----
-
-🧑‍💻 Autor
-Feito com 💻 por Vinícius Chaves
-🚀 Projeto educacional desenvolvido com base nos aprendizados do curso de Jorge Sant Ana.
-
-📜 Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
