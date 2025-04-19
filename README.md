@@ -57,6 +57,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ```bash
 📁 unes-universidade
+📁 images (aqui contém as imagens do projeto)
 ├── 📄 index.html
 ├── 📄 quem-somos.html
 └── 📄 contato.html
